@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="top_label">Memory Game</string>
+    <string name="instructions">Flip Cards to Match, if they dob\'t match flip back the card and try others, when they match continue with the others</string>
+</resources>
